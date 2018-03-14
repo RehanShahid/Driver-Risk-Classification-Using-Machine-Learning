@@ -1,14 +1,3 @@
-**Spring17 - Team19**
-====================
-
- Project Name   : <b>RISK Analysis</b>
- 
- Project Report : https://github.com/SJSU272LabS17/Project-Team-19/blob/master/Report/Team19_Project_Report.pdf
- 
- Web Application URL: ec2-54-187-49-103.us-west-2.compute.amazonaws.com
-
-**Abstract**
- ===========
 
 **Driver Risk Assessment and Monitoring**
 
@@ -70,69 +59,12 @@ http://ec2-54-149-92-43.us-west-2.compute.amazonaws.com/
 
 > [Poojitha Amin](https://github.com/poojithaamin)
 
-> [Sneha Vedakkemadathil](https://github.com/SnehaVM)
+> [Sneha Vadakkemadathil](https://github.com/SnehaVM)
 
 > [Shivam Kumar Gupta](https://github.com/shivamgupta01)
 
 > [Rovin Singh Patwal](https://github.com/Rovin284)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=================================================
-
-OLD TOPICS
-==========
-
-**2)	A mobile dashboard to control all connected IoT devices in the house**
-
-The number of IoT devices are increasing rapidly and it is becoming challenging to manage all these devices individually. To make our homes smart, the devices need to have a centralised control system.
-Our solution aims to build a dashboard or use voice controlled device like Watson, Alexa, Google Home to control and adjust different smart devices at home like lights, switches, music player, sprinklers. This solution will make our lives easier, more convenient and comfortable.
-We plan to implement the following features:
- -	Integrate the control of multiple devices to one platform.
- -	Create the dashboard.
- -	Enable voice controlled interaction with the smart devices. 
- 
-Reference: http://ranjanr.blogspot.com/
-
- 
-3) Knowledge Base for Small and medium scale Organization.(New Idea)
-
-Thanks to Cloud IAAS, PAAS and SAAS Services available right now, many small and medium scale organizations are coming up in the market. But it is becoming hard for them to devote resources to organize the documents or knowledge base in the organization. It becomes hard for a new joinee to find the answers for all the small problems. By keeping this in mind we plan to implement a SAAS service for this kind of organization in the following way:
- - Create an interactive Front-End where different people can log in to search for desired problem.(IBM SSO and LAMP Stack)
- - Use IBM Retrieve and Rank to:
-   - Upload Documents
-   - Parse Document
-   - Upload Sample Question
-   - Train the Data to according to Sample Questions.
- 
-This SAAS application will be subscription based, and the user will be charged according the the number of questions asked. Though this will be useful for any industry type, below are few examples of industries which we can use use in our Application.
- - Customer Care support
- - Health Care
- - Research and Development 
- - Support Team.
- - Education
- - Telecoms, and etc.
- 
 
 
 
